@@ -6,8 +6,8 @@ Script for update Subspace Network Node for Linux or Mac CLI.
 
 `sudo apt update && sudo apt install curl jq`<br><br>
 
-# Donwload script:<br>
-`wget -qO- https://raw.githubusercontent.com/kir3d/subspace_cli_update/ss_update.sh && chmod +x ss_update.sh`<br><br>
+# Download script:<br>
+`wget -q https://raw.githubusercontent.com/kir3d/subspace_cli_update/main/ss_update.sh && chmod +x ss_update.sh`<br><br>
 
 # Run script
 `./ss_update.sh`
